@@ -388,7 +388,7 @@ Either result is useful.
 
 ---
 
-![Fig-2-From-Primitive-Discovery-to-Basis-Stress-Testing.png](docs/figures/Fig-2-From-Primitive-Discovery-to-Basis-Stress-Testing.png)
+![Fig-3-Residual-Intelligence-Taxonomy-and-Resolution-Path.png](docs/figures/Fig-3-Residual-Intelligence-Taxonomy-and-Resolution-Path.png)
 
 ---
 
