@@ -358,6 +358,10 @@ That is exactly where new research should concentrate.
 
 ---
 
+![Fig-3-Residual-Intelligence-Taxonomy-and-Resolution-Path.png](figures/Fig-3-Residual-Intelligence-Taxonomy-and-Resolution-Path.png)
+
+---
+
 # 11. Residuals Should Be Preserved, Not Hidden
 
 A common theoretical mistake is to explain away residuals.

@@ -1049,10 +1049,6 @@ Residuals should be preserved rather than hidden.
 
 ---
 
-![Fig-3-Residual-Intelligence-Taxonomy-and-Resolution-Path.png](figures/Fig-3-Residual-Intelligence-Taxonomy-and-Resolution-Path.png)
-
----
-
 # 39. Types of Residual
 
 A residual may arise for different reasons.

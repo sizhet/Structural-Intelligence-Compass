@@ -44,13 +44,11 @@ The current answer is organized around twelve points.
 
 ---
 
+![Fig-0-Structural-Intelligence-12-Point-Compass:-From-Fundamental-Questions-to-Open-Frontiers.png](docs/figures/Fig-0-Structural-Intelligence-12-Point-Compass:-From-Fundamental-Questions-to-Open-Frontiers.png)
+
+---
+
 # 2. The Structural Intelligence 12-Point Compass
-
----
-
-![Fig-1-The-Structural-Intelligence-12-Point-Compass.png](docs/figures/Fig-1-The-Structural-Intelligence-12-Point-Compass.png)
-
----
 
 ## I. Three Fundamental Challenges
 
@@ -308,6 +306,10 @@ It changes the boundary between what is known, what is uncertain, and what remai
 
 ---
 
+![Fig-1-The-Structural-Intelligence-12-Point-Compass.png](docs/figures/Fig-1-The-Structural-Intelligence-12-Point-Compass.png)
+
+---
+
 # 7. A Minimal Structural Basis?
 
 A related observation motivates another research direction.
@@ -349,12 +351,6 @@ The hypothesis should be tested rather than assumed.
 
 # 8. From Primitive Discovery to Basis Stress Testing
 
----
-
-![Fig-2-From-Primitive-Discovery-to-Basis-Stress-Testing.png](docs/figures/Fig-2-From-Primitive-Discovery-to-Basis-Stress-Testing.png)
-
----
-
 The next question may therefore not be:
 
 > **Can we invent another primitive?**
@@ -385,10 +381,6 @@ Stable residuals may reveal missing primitives.
 Failure to find such residuals across increasingly diverse tasks would provide evidence that a relatively small structural basis may support surprisingly broad intelligence.
 
 Either result is useful.
-
----
-
-![Fig-3-Residual-Intelligence-Taxonomy-and-Resolution-Path.png](docs/figures/Fig-3-Residual-Intelligence-Taxonomy-and-Resolution-Path.png)
 
 ---
 
