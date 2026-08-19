@@ -8,7 +8,7 @@ Versions indicate meaningful changes in the published research framework, struct
 
 ---
 
-# [0.1.0] — 2026-08-18
+# [0.1.0] — 2026-08-19
 
 ## Initial Public Research Release
 
