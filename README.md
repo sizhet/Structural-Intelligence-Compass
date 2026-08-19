@@ -400,17 +400,25 @@ Its initial research content consists of four papers:
 
 The overall navigational framework.
 
+[SI-C-001 — The Structural Intelligence 12-Point Compass](./docs/SI-C-001%20%E2%80%94%20The%20Structural%20Intelligence%2012-Point%20Compass.md)
+
 ### SI-C-002 — Perspective-Limited Truth and Open Boundaries of Intelligence
 
 Perspective, observation, truth approximation, boundary intelligence, and the limits of claims about general intelligence.
+
+[SI-C-002 — Perspective-Limited Truth and Open Boundaries of Intelligence](./docs/SI-C-002%20—%20Perspective-Limited%20Truth%20and%20Open%20Boundaries%20of%20Intelligence.md)
 
 ### SI-C-003 — A Minimal Structural Basis for Broad Intelligence
 
 Organizational compression, core-preserved generation, calling-path folding, secondary structural operators, and the Minimal Structural Basis Hypothesis.
 
+[SI-C-003 — A Minimal Structural Basis for Broad Intelligence](./docs/SI-C-003%20—%20A%20Minimal%20Structural%20Basis%20for%20Broad%20Intelligence.md)
+
 ### SI-C-004 — From Primitive Discovery to Basis Stress Testing
 
 A methodology for challenging the proposed basis through diverse intelligent tasks and searching systematically for Residual Intelligence.
+
+[SI-C-004 — From Primitive Discovery to Basis Stress Testing](./docs/SI-C-004%20—%20From%20Primitive%20Discovery%20to%20Basis%20Stress%20Testing.md)
 
 Together, the four papers follow a simple progression:
 
