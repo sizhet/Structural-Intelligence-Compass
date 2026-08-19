@@ -40,6 +40,10 @@ It is to discover where reality forces the basis to change.
 
 ---
 
+![Fig-2-From-Primitive-Discovery-to-Basis-Stress-Testing.png](figures/Fig-2-From-Primitive-Discovery-to-Basis-Stress-Testing.png)
+
+---
+
 # 1. A Research Program Changes When Its Primitive Rate Falls
 
 Early in a new research program, major primitives may appear frequently.

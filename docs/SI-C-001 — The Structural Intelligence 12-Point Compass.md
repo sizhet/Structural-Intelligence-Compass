@@ -33,7 +33,6 @@ The Compass is a loop.
 
 > **A more capable intelligence does not terminate the unknown. It reorganizes the boundary between the known and the unknown.**
 
----
 
 # 1. Why a Structural Intelligence Compass?
 
@@ -107,6 +106,10 @@ At a higher level, the progression is:
 But the progression does not terminate at Point 12.
 
 Point 12 returns to Point 1.
+
+---
+
+![Fig-1-The-Structural-Intelligence-12-Point-Compass.png](figures/Fig-1-The-Structural-Intelligence-12-Point-Compass.png)
 
 ---
 
