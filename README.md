@@ -48,6 +48,12 @@ The current answer is organized around twelve points.
 
 ---
 
+### Key Terms and Acronyms
+
+[GLOSSARY.md](./docs/GLOSSARY.md)
+
+---
+
 # 2. The Structural Intelligence 12-Point Compass
 
 ## I. Three Fundamental Challenges

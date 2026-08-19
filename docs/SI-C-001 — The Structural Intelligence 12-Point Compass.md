@@ -117,6 +117,12 @@ Point 12 returns to Point 1.
 
 ---
 
+### Key Terms and Acronyms
+
+[GLOSSARY.md](GLOSSARY.md)
+
+---
+
 # Part I — Three Fundamental Challenges
 
 # 3. Point 1 — Relative Truth vs. Absolute Truth
