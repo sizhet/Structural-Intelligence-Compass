@@ -372,8 +372,6 @@ Added:
 
 - `CITATION.cff`
 - `.zenodo.json`
-- `GitHub Release Notes.md`
-- `ResearchGate Notes.md`
 - `CHANGELOG.md`
 
 These files prepare the repository for public archival release, citation, version tracking, and dissemination.

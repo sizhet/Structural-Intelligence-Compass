@@ -109,7 +109,7 @@ Point 12 returns to Point 1.
 
 ---
 
-![Fig-0-Structural-Intelligence-12-Point-Compass:-From-Fundamental-Questions-to-Open-Frontiers.png](figures/Fig-0-Structural-Intelligence-12-Point-Compass:-From-Fundamental-Questions-to-Open-Frontiers.png)
+![Fig-0-Structural-Intelligence-12-Point-Compass-From-Fundamental-Questions-to-Open-Frontiers.png](figures/Fig-0-Structural-Intelligence-12-Point-Compass-From-Fundamental-Questions-to-Open-Frontiers.png)
 
 ---
 

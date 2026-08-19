@@ -44,7 +44,7 @@ The current answer is organized around twelve points.
 
 ---
 
-![Fig-0-Structural-Intelligence-12-Point-Compass:-From-Fundamental-Questions-to-Open-Frontiers.png](docs/figures/Fig-0-Structural-Intelligence-12-Point-Compass:-From-Fundamental-Questions-to-Open-Frontiers.png)
+![Fig-0-Structural-Intelligence-12-Point-Compass-From-Fundamental-Questions-to-Open-Frontiers.png](docs/figures/Fig-0-Structural-Intelligence-12-Point-Compass-From-Fundamental-Questions-to-Open-Frontiers.png)
 
 ---
 
