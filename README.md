@@ -552,6 +552,8 @@ AI Research Assistant
 
 2026
 
+DOI: 10.5281/zenodo.22018637
+
 ---
 
 ## 📚 DBM-SI Series Navigation
