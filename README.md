@@ -48,9 +48,18 @@ The current answer is organized around twelve points.
 
 ---
 
-### Key Terms and Acronyms
+## Key Terms and Acronyms
 
 [GLOSSARY.md](./docs/GLOSSARY.md)
+
+---
+
+## Repository Navigation
+
+- [START HERE](./docs/START-HERE.md)
+- [Constitution](./docs/CONSTITUTION.md)
+- [Roadmap](./docs/ROADMAP.md)
+- [Glossary](./docs/GLOSSARY.md)
 
 ---
 
