@@ -177,3 +177,7 @@
 53. Policy-Driven Organizational Runtime (PDOR) \
     A Minimal Executable Architecture for Structure-Driven Routing and Localized Runtime Intelligence \
     Repository: https://github.com/sizhet/Policy-Driven-Organizational-Runtime-PDOR
+    
+54. Structural Intelligence Compass \
+    A 12-Point Research Compass for Structural Intelligence \
+    Repository: https://github.com/sizhet/Structural-Intelligence-Compass
