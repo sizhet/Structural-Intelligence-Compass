@@ -1,49 +1,51 @@
 {
-"title": "Policy-Driven Organizational Synthesis (PDOS)",
-"description": "Policy-Driven Organizational Synthesis (PDOS) is a computational framework for synthesizing, exploiting, and continuously evolving organizational structures under explicit policies. The repository develops a unified architecture connecting organizational intelligence, organizational routing, runtime computation, localized runtime intelligence, continuous learning, Brain Units, multi-policy runtime intelligence, and closed-loop organizational evolution. Version 1.0 establishes the first complete theoretical foundation of PDOS across five progressively connected parts: Foundations; From Knowledge Organization to Triggering Economy; Policy-Driven Runtime Architecture; Toward Organizational Intelligence; and Localized Runtime Intelligence.",
+"title": "Structural Intelligence Compass: A 12-Point Research Compass for Structural Intelligence",
+"description": "The Structural Intelligence Compass is a compact, open research framework for examining intelligence, computation, reasoning, organization, and their boundaries from twelve structural directions. The Compass is organized into four groups: three fundamental challenges concerning relative versus absolute truth, extrapolation boundaries, and computational difficulty; three structural foundations concerning differential-tree structures, Calling Graphs, and Calling-Path Folding; three engineering directions concerning PDOS/PDOR, Core-Preserved Generation, and Local Node Intelligence; and three research frontiers concerning Multi-Perspective Function Tunnels, Structural Extrapolation and Confidence, and Hybrid Intelligence. The repository also develops the concepts of Perspective-Limited Truth, Boundary Intelligence, a Minimal Structural Basis for Broad Intelligence, Basis Stress Testing, and Residual Intelligence. It is intentionally presented as a compass rather than a closed map: an invitational framework intended for collective examination, challenge, extension, and revision.",
+"upload_type": "publication",
+"publication_type": "other",
 "creators": [
 {
 "name": "Tan, Sizhe"
 }
 ],
-"version": "1.0.0",
-"publication_date": "2026-08-07",
-"upload_type": "software",
+"version": "0.1.0",
+"publication_date": "2026-08-18",
 "license": "Apache-2.0",
 "access_right": "open",
 "keywords": [
-"Policy-Driven Organizational Synthesis",
-"PDOS",
-"Organizational Intelligence",
-"Organizational Computation",
-"Organization as Computation",
-"Policy as a Computational Primitive",
-"Policy-Driven Organization",
-"Organizational Routing",
-"Localized Runtime Intelligence",
-"Decision Landscapes",
-"Runtime Memory",
-"Unified Dispatch",
-"Localized Runtime Learning",
-"Brain Units",
-"Multi-Policy Runtime Intelligence",
-"Closed-Loop Runtime Organizations",
-"Triggering Economy",
-"Difference Trees",
 "Structural Intelligence",
-"Hybrid AI",
-"Open-Domain Intelligence"
+"Structural Intelligence Compass",
+"Artificial Intelligence",
+"AGI",
+"Hybrid Intelligence",
+"Boundary Intelligence",
+"Residual Intelligence",
+"Basis Stress Testing",
+"Operator Economy",
+"Differential Organization",
+"Calling Graph",
+"Calling-Path Folding",
+"Core-Preserved Generation",
+"Universal Typing and Naming",
+"UTN",
+"Two-Way CCC",
+"Function Tunnel",
+"Runtime Invariant",
+"PDOS",
+"PDOR",
+"Digital Brain"
 ],
 "related_identifiers": [
 {
-"identifier": "https://github.com/sizhet/Policy-Driven-Organizational-Synthesis-PDOS",
+"identifier": "https://github.com/sizhet/Structural-Intelligence-Compass",
 "relation": "isSupplementTo",
 "scheme": "url"
 }
 ],
-"communities": [],
-"notes": "Version 1.0 establishes the first complete theoretical and engineering foundation of Policy-Driven Organizational Synthesis (PDOS). The release integrates five progressively connected parts covering foundational organizational principles, the Triggering Economy, policy-driven runtime architecture, Organizational Intelligence, and Localized Runtime Intelligence. DOI: 10.5281/zenodo.21844616."
+"notes": "Initial public research release. The Structural Intelligence Compass is intentionally open-ended and does not claim that the twelve Compass points or the proposed structural basis are complete. The repository is designed to support collective learning, counterexamples, Basis Stress Testing, and future revision."
 }
+
+
 
 
 
