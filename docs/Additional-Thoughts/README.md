@@ -118,7 +118,7 @@ The **Landscape** identifies where different computational structures belong.
 ## 3.3 Structural Stack
 
 The **Stack** identifies how structures cooperate computationally.
-
+``
 > **Stack tells us how they work together.**
 
 These are related but should not be collapsed into one artifact.
