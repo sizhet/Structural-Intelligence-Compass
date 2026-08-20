@@ -1,0 +1,70 @@
+cff-version: 1.2.0
+message: "If you use or discuss the Structural Intelligence Compass, please cite this repository."
+title: "Structural Intelligence Compass"
+version: "0.1.0"
+date-released: "2026-08-19"
+
+authors:
+  - family-names: "Tan"
+    given-names: "Sizhe"
+
+type: software
+
+abstract: >-
+  The Structural Intelligence Compass is a compact, open research framework
+  for examining intelligence, computation, reasoning, organization, and their
+  boundaries from twelve structural directions. The Compass is organized
+  around three fundamental challenges, three structural foundations, three
+  engineering directions, and three research frontiers. It emphasizes
+  perspective-limited truth, open epistemic boundaries, structural
+  extrapolation, computational difficulty, differential organization,
+  Calling Graphs, Calling-Path Folding, Policy-Driven Organizational
+  Synthesis and Runtime, Core-Preserved Generation, Local Node Intelligence,
+  Multi-Perspective Function Tunnels, and Hybrid Intelligence. The repository
+  also proposes a Minimal Structural Basis Hypothesis and a methodology of
+  Basis Stress Testing through the search for Residual Intelligence.
+
+keywords:
+  - "Structural Intelligence"
+  - "Structural Intelligence Compass"
+  - "Artificial Intelligence"
+  - "AGI"
+  - "Hybrid Intelligence"
+  - "Boundary Intelligence"
+  - "Residual Intelligence"
+  - "Basis Stress Testing"
+  - "Operator Economy"
+  - "Differential Organization"
+  - "Calling Graph"
+  - "Calling-Path Folding"
+  - "Core-Preserved Generation"
+  - "Universal Typing and Naming"
+  - "UTN"
+  - "Two-Way CCC"
+  - "Function Tunnel"
+  - "Runtime Invariant"
+  - "PDOS"
+  - "PDOR"
+  - "Digital Brain"
+
+license: Apache-2.0
+
+repository-code: "https://github.com/sizhet/Structural-Intelligence-Compass"
+
+url: "https://github.com/sizhet/Structural-Intelligence-Compass"
+
+preferred-citation:
+  type: generic
+  title: "Structural Intelligence Compass: A 12-Point Research Compass for Structural Intelligence"
+  authors:
+    - family-names: "Tan"
+      given-names: "Sizhe"
+  year: 2026
+  version: "0.1.0"
+  url: "https://github.com/sizhet/Structural-Intelligence-Compass"
+
+doi: 10.5281/zenodo.22018637
+
+
+
+
