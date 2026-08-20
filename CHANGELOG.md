@@ -6,9 +6,9 @@ The repository follows an incremental research-release model. Earlier releases a
 
 ---
 
-## [v0.2.0] — 2026-08-20
+# [v0.2.0] — 2026-08-20
 
-### Post-Release Structural Delta
+## Post-Release Structural Delta
 
 Version **v0.2.0** is the first post-release structural extension of the Structural Intelligence Compass.
 
@@ -22,7 +22,7 @@ Instead, it records the evolution of the research:
 
 ---
 
-### Added — Additional Thoughts Series
+## Added — Additional Thoughts Series
 
 Added:
 
@@ -227,7 +227,7 @@ The overview:
 - connects X-Y-M memory with policy learning;
 - documents the emerging interpretation of Point 12.
 
-### Added — Enumerative Structure
+## Added — Enumerative Structure
 
 Recognized Enumerative Structure as an important candidate upstream layer of Structural Intelligence.
 
@@ -246,7 +246,7 @@ The emerging relationship is:
 
 This extends the SI landscape beyond Differential Trees and Calling Graphs by explicitly representing the computational possibility spaces from which many such structures arise.
 
-### Added — Problem Space and Intelligence Space
+## Added — Problem Space and Intelligence Space
 
 Introduced an explicit distinction between two major computational spaces.
 
@@ -279,7 +279,7 @@ This produces the dual principle:
 
 > **Differentiate the intelligence space to determine how the problem should be solved.**
 
-### Added — Generalized Per-Node Intelligence
+## Added — Generalized Per-Node Intelligence
 
 Expanded Per-Node Intelligence beyond one-model-per-node architectures.
 
@@ -300,7 +300,7 @@ Policy determines runtime use.
 
 This creates a foundation for localized Structural Hybrid Intelligence.
 
-### Added — Learn-on-Demand Intelligence
+## Added — Learn-on-Demand Intelligence
 
 Generalized local intelligence generation beyond ANN training.
 
@@ -318,7 +318,7 @@ This establishes:
 
 > **Learn-on-Demand as an organizational capability rather than a model-specific capability.**
 
-### Added — Policy Surfaces
+## Added — Policy Surfaces
 
 Introduced Policy Surface as the strategy space created when multiple computational mechanisms become viable at the same junction.
 
@@ -338,7 +338,7 @@ This creates a new research direction centered on Level-2 Intelligence:
 
 > **Intelligence over the organization and selection of intelligence.**
 
-### Added — X-Y-M Policy Learning Interpretation
+## Added — X-Y-M Policy Learning Interpretation
 
 Extended the X-Y-M memory model to policy learning.
 
@@ -362,7 +362,7 @@ toward:
 
 > **Learn who or what should produce the answer.**
 
-### Added — Structural Placement Principle
+## Added — Structural Placement Principle
 
 The Additional Thoughts series clarifies a recurring source of unnecessary AI paradigm conflict.
 
@@ -399,7 +399,7 @@ The preferred questions become:
     
     With which validation?
 
-### Added — Structural Synthesis
+## Added — Structural Synthesis
 
 The research methodology is extended beyond the discovery of individual computational structures.
 
@@ -427,7 +427,7 @@ The emerging synthesis workflow is:
 
 This is provisionally described as Structural Synthesis.
 
-### Added — Structural Evolution
+## Added — Structural Evolution
 
 Introduced a longer-term research hypothesis:
 
@@ -460,7 +460,7 @@ The stronger present claim is that Point 12 increasingly appears to be a **Synth
 
 Future implementation and experimental evidence should determine whether this interpretation becomes the final Point 12 formulation.
 
-### Added — Additional Thoughts Figures
+## Added — Additional Thoughts Figures
 
 Added overview figures for the post-release structural delta.
 
