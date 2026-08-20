@@ -127,6 +127,18 @@ The original 12-Point Compass therefore does not need to be redrawn every time t
 
 ---
 
+![Fig-AT-000 — Structural Intelligence Compass — Additional Thoughts](./figures/Fig-AT-000-Structural-Intelligence-Compass-Additional-Thoughts.png)
+
+**Fig-AT-000 — Structural Intelligence Compass — Additional Thoughts.**  
+Post-release structural map of the v0.2.0 Additional Thoughts series. The figure
+preserves the original 12-Point Compass as the research-direction baseline while
+showing the emerging computational chain, the distinction between Problem Space
+and Intelligence Space, the six SI-AT extensions, technology placement, Brain
+Unit organization, X-Y-M policy learning, Policy Surfaces, and the progression
+from Structural Discovery through Structural Synthesis toward Structural Evolution.
+
+---
+
 # 4. The Emerging Computational Chain
 
 The Additional Thoughts articles increasingly expose a larger SI computational chain:

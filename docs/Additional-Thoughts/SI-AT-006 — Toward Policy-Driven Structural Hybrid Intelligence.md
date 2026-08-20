@@ -246,6 +246,18 @@ This layered view helps prevent unnecessary paradigm conflict.
 
 ---
 
+The broader relationship among these layers and the preceding Additional Thoughts
+is summarized in Fig-AT-000.
+
+![Fig-AT-000 — Structural Intelligence Compass — Additional Thoughts](./figures/Fig-AT-000-Structural-Intelligence-Compass-Additional-Thoughts.png)
+
+**Fig-AT-000 — Structural Intelligence Compass — Additional Thoughts.**  
+The post-release Structural Intelligence landscape connecting grounding,
+enumeration, organization, localized intelligence, policy surfaces, runtime
+synthesis, and structural evolution.
+
+---
+
 # 5. Grounding: Bringing the World Into Computation
 
 Physical systems begin with observations:
@@ -1954,6 +1966,10 @@ A second formulation is:
 > **The next frontier may not be another isolated form of intelligence, but learning how existing forms of intelligence should be structurally organized, selectively invoked, and continuously optimized.**
 
 These formulations should remain hypotheses until further experimentation clarifies the architecture.
+
+---
+
+![Fig-AT-001-From-Compass-to-Structural-Hybrid-Intelligence.png](./figures/Fig-AT-001-From-Compass-to-Structural-Hybrid-Intelligence.png) 
 
 ---
 
