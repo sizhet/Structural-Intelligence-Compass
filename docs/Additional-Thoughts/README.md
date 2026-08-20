@@ -1072,3 +1072,28 @@ This transition can be summarized as:
 > **Structural Discovery → Structural Synthesis → Structural Evolution**
 
 The purpose of the Additional Thoughts series is to document that transition carefully, incrementally, and without rewriting the historical baseline from which it emerged.
+
+
+---
+
+## Author
+
+Sizhe Tan\
+Independent Researcher
+
+GPT-Obot\
+AI Research Assistant
+
+2026
+
+DOI: 10.5281/zenodo.22036320
+
+---
+
+## 📚 DBM-SI Series Navigation
+
+See:\
+[../DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](../DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
+
+[../DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md](../DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Structural-Intelligence-Dictionary-(v2).md)
+
