@@ -1,8 +1,11 @@
 cff-version: 1.2.0
 message: "If you use or discuss the Structural Intelligence Compass, please cite this repository."
+
 title: "Structural Intelligence Compass"
-version: "0.1.0"
-date-released: "2026-08-19"
+
+version: "0.2.0"
+
+date-released: "2026-08-20"
 
 authors:
   - family-names: "Tan"
@@ -11,41 +14,52 @@ authors:
 type: software
 
 abstract: >-
-  The Structural Intelligence Compass is a compact, open research framework
-  for examining intelligence, computation, reasoning, organization, and their
-  boundaries from twelve structural directions. The Compass is organized
-  around three fundamental challenges, three structural foundations, three
-  engineering directions, and three research frontiers. It emphasizes
-  perspective-limited truth, open epistemic boundaries, structural
-  extrapolation, computational difficulty, differential organization,
-  Calling Graphs, Calling-Path Folding, Policy-Driven Organizational
-  Synthesis and Runtime, Core-Preserved Generation, Local Node Intelligence,
-  Multi-Perspective Function Tunnels, and Hybrid Intelligence. The repository
-  also proposes a Minimal Structural Basis Hypothesis and a methodology of
-  Basis Stress Testing through the search for Residual Intelligence.
+  The Structural Intelligence Compass is an open research framework for
+  examining intelligence, computation, reasoning, organization, and their
+  boundaries from twelve structural directions. Version 0.2.0 preserves
+  the original 12-Point Compass as the research baseline while adding a
+  Post-Release Structural Delta through the Additional Thoughts series.
+  The new material develops Structural Differential Computation,
+  Calling-Path Folding as a recurring computational pattern, Enumerative
+  Structure as a computational possibility space, Local Learned
+  Intelligence and Grounded Structural IR, Technology Convergence and
+  Policy Surfaces, and a candidate synthesis direction toward
+  Policy-Driven Structural Hybrid Intelligence. The release further
+  distinguishes Problem Space from Intelligence Space, expands Per-Node
+  Intelligence beyond single-model architectures, and develops the
+  progression from Structural Discovery through Structural Synthesis
+  toward Structural Evolution. Point 12 remains intentionally open and
+  is not treated as having reached a final definition.
 
 keywords:
   - "Structural Intelligence"
   - "Structural Intelligence Compass"
   - "Artificial Intelligence"
-  - "AGI"
   - "Hybrid Intelligence"
-  - "Boundary Intelligence"
-  - "Residual Intelligence"
-  - "Basis Stress Testing"
-  - "Operator Economy"
+  - "Policy-Driven Structural Hybrid Intelligence"
+  - "Structural Synthesis"
+  - "Structural Evolution"
+  - "Enumerative Structure"
+  - "Computational Possibility Space"
   - "Differential Organization"
+  - "Differential Tree"
   - "Calling Graph"
   - "Calling-Path Folding"
-  - "Core-Preserved Generation"
-  - "Universal Typing and Naming"
-  - "UTN"
+  - "Grounded Structural IR"
+  - "Local Learned Intelligence"
+  - "Per-Node Intelligence"
+  - "Intelligence Space"
+  - "Policy Surface"
+  - "Policy Optimization"
+  - "Brain Unit AI"
   - "Two-Way CCC"
   - "Function Tunnel"
-  - "Runtime Invariant"
+  - "Runtime Intelligence"
+  - "Runtime Switching"
   - "PDOS"
   - "PDOR"
-  - "Digital Brain"
+  - "Structural Provenance"
+  - "Operator Economy"
 
 license: Apache-2.0
 
@@ -60,11 +74,5 @@ preferred-citation:
     - family-names: "Tan"
       given-names: "Sizhe"
   year: 2026
-  version: "0.1.0"
+  version: "0.2.0"
   url: "https://github.com/sizhet/Structural-Intelligence-Compass"
-
-doi: 10.5281/zenodo.22018637
-
-
-
-
