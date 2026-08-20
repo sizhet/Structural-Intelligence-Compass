@@ -1,10 +1,552 @@
 # Changelog
 
-All notable changes to the **Structural Intelligence Compass** repository are documented in this file.
+All notable changes to the **Structural Intelligence Compass** are documented in this file.
 
-This repository follows a research-oriented versioning practice.
+The repository follows an incremental research-release model. Earlier releases are preserved as historical research baselines; later releases extend rather than retroactively rewrite them.
 
-Versions indicate meaningful changes in the published research framework, structural organization, terminology, figures, or release materials rather than software API compatibility alone.
+---
+
+## [v0.2.0] — 2026-08-20
+
+### Post-Release Structural Delta
+
+Version **v0.2.0** is the first post-release structural extension of the Structural Intelligence Compass.
+
+It preserves the original **v0.1.0 12-Point Compass** as the historical research baseline and adds a new **Additional Thoughts** layer documenting structural relationships, missing computational layers, and synthesis directions that became visible after the initial release.
+
+This release does **not** redefine the original Compass retrospectively.
+
+Instead, it records the evolution of the research:
+
+> **Do not rewrite the released Compass. Append the evolution of the Compass.**
+
+---
+
+### Added — Additional Thoughts Series
+
+Added:
+
+```text
+docs/Additional-Thoughts/
+```
+
+with six post-release research articles.
+
+### SI-AT-001 — Structural Differential Computation for Personalized Target Discovery
+
+Explores personalized target discovery as a potential Structural Differential Computation problem.
+
+Introduces and connects:
+
+- patient-specific structural differences;
+- Differential Trees;
+- Preserve / Subtract operations;
+- Two-Way CCC;
+- localized target evaluation;
+- policy-controlled discovery;
+- structural provenance.
+
+The article presents a computational research direction rather than a claim of demonstrated biomedical effectiveness.
+
+### SI-AT-002 — Calling-Path Folding as a Recurring Computational Pattern
+
+Extends the interpretation of Calling-Path Folding beyond LLMs.
+
+Examines a recurring computational pattern:
+
+    Long / Distributed Computational Path
+                    |
+                    v
+    Reusable Computational Structure
+                    |
+                    v
+    Shorter Runtime Invocation
+
+Connects this pattern conceptually with historical computational abstractions including positional numeral systems, algebra, functions, libraries, APIs, compilation, machine learning, and LLMs.
+
+The article does not claim mathematical equivalence among these mechanisms; it identifies a recurring structural pattern of computational folding.
+
+### SI-AT-003 — Enumerative Structure as a Computational Possibility Space
+
+Introduces Enumerative Structure as a candidate upstream Structural Intelligence layer.
+
+Develops the concept of computational possibility spaces including:
+
+- candidate spaces;
+- state spaces;
+- path spaces;
+- assignment spaces;
+- permutation spaces.
+
+Connects Enumerative Structure with:
+
+- Branch-and-Bound;
+- Dynamic Programming;
+- game trees;
+- Bucket Trees of Permutations;
+- Differential Trees;
+- Calling Graphs;
+- runtime reachability.
+
+A central observation is:
+
+> **Advanced computation often does not eliminate enumeration; it organizes, compresses, bounds, reuses, or selectively traverses it.**
+
+### SI-AT-004 — Local Learned Intelligence and Grounded Structural IR
+
+Introduces two related but distinct SI extensions:
+
+1. **Local Learned Intelligence**
+2. **Grounded Structural IR**
+
+Grounded Structural IR provides a bridge:
+
+    Physical World
+          |
+          v
+    Sensors
+          |
+          v
+    Learned Perception
+          |
+          v
+    Grounded Structural IR
+          |
+          v
+    Structural Intelligence
+
+The article further expands the concept of Per-Node Intelligence.
+
+A node may use:
+
+- deterministic algorithms;
+- ANN;
+- statistical models;
+- Two-Way CCC;
+- LLMs;
+- search;
+- external tools;
+- human review.
+
+This establishes the principle:
+
+> **Per-Node Intelligence is broader than Per-Node Model.**
+
+The article also generalizes Learn-on-Demand Intelligence beyond ANN training to include locally constructed Two-Way CCC, policies, rules, and other computational structures.
+
+### SI-AT-005 — Technology Convergence and Policy Surfaces
+
+Introduces **Policy Surfaces** as a first-class research object arising from technology convergence.
+
+The central relationship is:
+
+    Technology Convergence
+            |
+            v
+    Computational Junction
+            |
+            v
+    Strategy Space
+            |
+            v
+    Policy Surface
+
+Policy may govern:
+
+- selection;
+- generation;
+- combination;
+- sequencing;
+- parallel execution;
+- validation;
+- fallback;
+- escalation;
+- retirement.
+
+The central principle is:
+
+> **Technological convergence creates policy surfaces. Policy surfaces create optimization opportunities.**
+
+This shifts the question from:
+
+> Which technology is best?
+
+toward:
+
+> **Which computational strategy is best for this context, at this node, under this policy?**
+
+### SI-AT-006 — Toward Policy-Driven Structural Hybrid Intelligence
+
+Provides the first synthesis of the Additional Thoughts series.
+
+Develops **Policy-Driven Structural Hybrid Intelligence** as a candidate interpretation of the still-open **Point 12**.
+
+The article connects:
+
+- Grounded Structural IR;
+- Enumerative Structure;
+- Differential Organization;
+- Calling Graphs;
+- Calling-Path Folding;
+- Local Learned Intelligence;
+- Two-Way CCC;
+- Per-Node Intelligence Spaces;
+- Policy Surfaces;
+- runtime reachability;
+- measurement and feedback.
+
+It introduces the broader research progression:
+
+    Structural Discovery
+            |
+            v
+    Structural Synthesis
+            |
+            v
+    Structural Evolution
+
+Point 12 intentionally remains open.
+
+Policy-Driven Structural Hybrid Intelligence is presented as an emerging synthesis direction rather than a final locked definition.
+
+## Added — Additional Thoughts Overview
+
+Added:
+
+    docs/Additional-Thoughts/README.md
+
+The overview:
+
+- explains the relationship between the original Compass and the post-release extensions;
+- preserves v0.1.0 as the historical baseline;
+- distinguishes **Compass, Computational Landscape**, and **Structural Stack**;
+- summarizes all six SI-AT articles;
+- introduces the emerging SI computational chain;
+- distinguishes Problem Space from Intelligence Space;
+- develops Brain Unit AI as a local intelligent organization;
+- connects X-Y-M memory with policy learning;
+- documents the emerging interpretation of Point 12.
+
+### Added — Enumerative Structure
+
+Recognized Enumerative Structure as an important candidate upstream layer of Structural Intelligence.
+
+The emerging relationship is:
+
+    Representation
+          |
+          v
+    Enumeration
+          |
+          v
+    Organization
+          |
+          v
+    Selective Runtime Computation
+
+This extends the SI landscape beyond Differential Trees and Calling Graphs by explicitly representing the computational possibility spaces from which many such structures arise.
+
+### Added — Problem Space and Intelligence Space
+
+Introduced an explicit distinction between two major computational spaces.
+
+### Problem Space
+
+    Large Problem Space
+            |
+            v
+    Differential Organization
+            |
+            v
+    Localized Node
+
+### Intelligence Space
+
+    Localized Node
+           |
+           v
+    Available Intelligence
+           |
+           v
+    Policy
+           |
+           v
+Runtime Solver
+
+This produces the dual principle:
+
+> **Differentiate the problem space to determine where the problem belongs.**
+
+> **Differentiate the intelligence space to determine how the problem should be solved.**
+
+### Added — Generalized Per-Node Intelligence
+
+Expanded Per-Node Intelligence beyond one-model-per-node architectures.
+
+A node may own an **Intelligence Space** containing heterogeneous computational mechanisms:
+
+    Node
+     |
+     +---- Algorithm
+     +---- ANN
+     +---- Statistical Model
+     +---- Two-Way CCC
+     +---- LLM
+     +---- Search
+     +---- Tool
+     +---- Human
+
+Policy determines runtime use.
+
+This creates a foundation for localized Structural Hybrid Intelligence.
+
+### Added — Learn-on-Demand Intelligence
+
+Generalized local intelligence generation beyond ANN training.
+
+A node may learn or construct:
+
+- ANN;
+- Two-Way CCC;
+- local policy;
+- rule;
+- index;
+- cache;
+- other specialized computational structures.
+
+This establishes:
+
+> **Learn-on-Demand as an organizational capability rather than a model-specific capability.**
+
+### Added — Policy Surfaces
+
+Introduced Policy Surface as the strategy space created when multiple computational mechanisms become viable at the same junction.
+
+Policy may optimize over:
+
+- accuracy;
+- latency;
+- cost;
+- risk;
+- energy;
+- confidence;
+- explainability;
+- privacy;
+- validation requirements.
+
+This creates a new research direction centered on Level-2 Intelligence:
+
+> **Intelligence over the organization and selection of intelligence.**
+
+### Added — X-Y-M Policy Learning Interpretation
+
+Extended the X-Y-M memory model to policy learning.
+
+    X = local context
+    
+    
+    Y = selected computational strategy
+    
+    
+    M = measured result
+
+Repeated runtime observations can therefore support learning:
+
+> Given X, which Y tends to produce the preferred M?
+
+This shifts part of the learning problem from:
+
+> **Learn the answer**
+
+toward:
+
+> **Learn who or what should produce the answer.**
+
+### Added — Structural Placement Principle
+
+The Additional Thoughts series clarifies a recurring source of unnecessary AI paradigm conflict.
+
+Technologies such as:
+
+- LLMs;
+- World Models;
+- ANN;
+- Two-Way CCC;
+- search;
+- symbolic methods;
+- Calling Graphs;
+- runtime switching;
+
+often perform different computational jobs.
+
+The release therefore introduces the working principle:
+
+> **Many AI paradigm conflicts are not conflicts of capability, but failures of structural placement.**
+
+The preferred questions become:
+
+    What computational job?
+
+
+    At what layer?
+    
+    
+    At which node?
+    
+    
+    Under which policy?
+    
+    
+    With which validation?
+
+### Added — Structural Synthesis
+
+The research methodology is extended beyond the discovery of individual computational structures.
+
+The emerging synthesis workflow is:
+
+    Existing Structures
+           |
+           v
+    Identify Junctions
+           |
+           v
+    Define Interfaces
+           |
+           v
+    Expose Strategy Spaces
+           |
+           v
+    Apply Policy
+           |
+           v
+    Measure Runtime Behavior
+           |
+           v
+    Optimize Composition
+
+This is provisionally described as Structural Synthesis.
+
+### Added — Structural Evolution
+
+Introduced a longer-term research hypothesis:
+
+    Runtime Experience
+           |
+           v
+    Repeated Successful Structure
+           |
+           v
+    Folding / Learning / Compilation
+           |
+           v
+    New Computational Unit
+
+This suggests the larger progression:
+
+> **Structural Discovery → Structural Synthesis → Structural Evolution**
+
+Structural Evolution remains a research direction requiring future implementation and validation.
+
+## Clarified — Point 12 Remains Open
+
+Point 12 of the Structural Intelligence Compass is **not finalized** in v0.2.0.
+
+The current candidate direction is:
+
+> **Policy-Driven Structural Hybrid Intelligence**
+
+The stronger present claim is that Point 12 increasingly appears to be a **Synthesis Point** where heterogeneous computational structures form an organized runtime whole.
+
+Future implementation and experimental evidence should determine whether this interpretation becomes the final Point 12 formulation.
+
+### Added — Additional Thoughts Figures
+
+Added overview figures for the post-release structural delta.
+
+The figures visualize:
+
+- the relationship between the original Compass and Additional Thoughts;
+- the emerging SI computational chain;
+- Problem Space and Intelligence Space;
+- the six SI-AT articles;
+- technology placement;
+- Brain Unit organization;
+- X-Y-M policy learning;
+- Technology Convergence and Policy Surfaces;
+- Structural Discovery, Synthesis, and Evolution;
+- the emerging direction toward Point 12.
+
+These figures are intended as visual research maps rather than replacements for the original 12-Point Compass.
+
+## Updated — Release Metadata
+
+Updated:
+
+    .zenodo.json
+    CITATION.cff
+
+for **v0.2.0**.
+
+The metadata describes v0.2.0 as a **Post-Release Structural Delta** rather than a replacement of the original Compass.
+
+The v0.1.0 release metadata may be preserved under:
+
+    release-metadata/
+    └── v0.1.0/
+        ├── .zenodo.json
+        └── CITATION.cff
+
+to provide explicit release-level structural provenance.
+
+## Release Position
+
+Version v0.2.0 should be interpreted as:
+
+> **A substantial research extension without a claim of architectural closure.**
+
+The original Compass remains intact.
+
+The new material exposes relationships that were not yet explicit in v0.1.0 and begins the transition from a map of structural research directions toward a map of **structural cooperation**.
+
+The central delta can be summarized as:
+
+    v0.1.0
+    Structural Intelligence Compass
+            |
+            | continued analysis
+            v
+    v0.2.0
+    Additional Thoughts
+            |
+            +---- Enumerative Structure
+            +---- Grounded Structural IR
+            +---- Intelligence Spaces
+            +---- Learn-on-Demand Intelligence
+            +---- Policy Surfaces
+            +---- Structural Synthesis
+            |
+            v
+    Candidate Point 12 Direction
+            |
+            v
+    Policy-Driven Structural Hybrid Intelligence
+
+## Closing Note
+
+v0.1.0 asked:
+
+> **Where should Structural Intelligence research look?**
+
+v0.2.0 begins asking:
+
+> **How do the structures found in those directions relate, cooperate, and become organized at runtime?**
+
+The answer is not yet closed.
+
+But a new progression is now visible:
+
+> **From discovering structures, to organizing structures, to allowing computational organizations to evolve.**
 
 ---
 
